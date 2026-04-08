@@ -84,7 +84,16 @@ El proyecto permitirá:
 - Matplotlib
 
 
-## 8. Autor
+## 10. TXT
+
+- pandas==2.0.3
+- numpy==1.24.3
+- matplotlib==3.7.1
+- seaborn==0.12.2
+- openpyxl==3.1.2
+- jupyter==1.0.0
+
+
+## 9. Autor
 
 David Felipe Ruiz Parra
-Jaime Andres Solano Ruiz
